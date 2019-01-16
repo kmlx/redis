@@ -25,7 +25,7 @@ package redis // menteslibres.net/gosexy/redis
 import (
 	"errors"
 	"fmt"
-	"menteslibres.net/gosexy/to"
+	"github.com/gosexy/to"
 	"time"
 )
 

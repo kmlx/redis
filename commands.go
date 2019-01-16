@@ -25,7 +25,7 @@ import (
 	"errors"
 	"fmt"
 	"io"
-	"menteslibres.net/gosexy/to"
+	"github.com/gosexy/to"
 	"strings"
 )
 
